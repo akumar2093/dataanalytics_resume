@@ -1,0 +1,135 @@
+---
+title: “Ashish Kumar”
+author: Ashish Kumar
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # Thanks to Eric R. Scott for this tip! 
+    self_contained: false
+---
+
+Aside
+================================================================================
+
+
+![Data](data_icon.png){width=30%}
+
+
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i>ashish.kumar@tufts.edu
+- <i class="fa fa-github"></i> [github.com/akumar2093](https://github.com/akumar2093)
+- <i class="fa fa-phone"></i> +1 857-338-6514
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- Experienced in client facing roles. 
+
+- Performing **data analysis**, with a focus on business analytics
+
+- Experienced in **data analysis** and client relations
+
+- Worked with clients upselling in CS relations 
+
+
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+<!--This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).-->
+
+Last updated on `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+Ashish Kumar {#title}
+--------------------------------------------------------------------------------
+
+### MS in Innovation Management student seeking full time 2021 opportunity
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Tufts University
+
+MS Candidate in Innovation Management
+
+Medford, MA
+
+2019—Current
+
+
+### National Institute of Technology Jalandhar, India
+
+B.S. in Textile and polymer science
+
+India 
+
+20012–2016
+
+
+
+Work Experience {data-icon=flask}
+--------------------------------------------------------------------------------
+
+### Customer Success Intern with iAdvize
+
+Tufts University
+
+Medford, MA
+
+2020
+
+- Represented and pitched company’s new products to existing clients 
+- helped in upselling new product launches to existing clients
+
+
+
+Selected Project Experience {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### Netflix movie recommendation system
+
+Tufts University
+
+Medford, MA
+
+2019
+
+- Built a movie recommendation system for a user using Apriori machine learning algorithm using Netflix dataset.
+- Conducted data cleaning and data preprocessing using different python libraries viz. numpy, pandas, sklearn and matplotlib.
+- Built collaborative filtering-based recommendation engine in which one user is recommended similar kind of movies based on what they watched previously.
+
+### THREADLetics | Tufts University
+
+2019
+
+- Conducted 60+ in person customer interviews and 160+ surveys to validate primary and secondary market research
+- Targeted high endurance athletes’ sports market addressing athletes’ problem of high fatigue and high-risk injury focusing on their pain points. 
+- Contacted potential customers on daily basis through cold calling and emailing in turn generating potential marketing and sales leads for THREADLetics.
+
+### Product development with Rossari Biotech Ltd
+
+Tufts University
+
+Medford, MA
+
+2018-2019
+
+- Developed and launched lavender & jasmine oil encapsulated polymer products in an innovation project with the company.
+- Coordinated and discussed promotional strategies with product design team and marketing department to launch the two
+new products selling approximately 100-120 units (1000 lbs) of products in first year.
+- Established infrastructure and raw material sourcing in laboratory as well as manufacturing facility for the new products.
+
+
+
